@@ -1,2 +1,2 @@
 # Phone-Number-Country-Tracker-in-Python
-A "Phone Number Country Tracker in Python" is a project where I created a Python application to track the country location of phone numbers.
+A "Phone Number Country Tracker in Python" is a project where I created a Python application to track the country location of phone numbers. By leveraging Python libraries such as phonenumbers, I developed a robust solution capable of identifying the country associated with any given phone number. This project honed my skills in Python programming and data manipulation while offering insights into telecommunications and geolocation technologies.
